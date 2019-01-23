@@ -1,0 +1,185 @@
+.background{
+color:white;	
+	
+	
+	
+}
+.heading{
+	position:fixed;
+	top:0;
+	width:100%;
+	height:130px;
+	color:white;
+	background-image:linear-gradient(to bottom, Navy, blue,blue, green);
+	font-family:Forte;
+	font-size:70px;
+	text-align:center;
+	border-radius:20px;
+	
+	
+}
+.navi{
+	 
+	 
+ margin-top:100px;
+	float:right;
+	clear:both;
+	width:100%;
+	height:80px;
+	background-color:green;
+	border-radius:20px;
+	
+	
+}.navi ul{
+	
+	display:inline-block;
+	list-style:none;
+	
+	
+	
+}
+.navi li{
+	font-size:25px;
+	list-style:none;
+	float:left;
+  text-decoration:none;
+}
+.navi li a{
+    margin:10px;
+	padding:5px;
+	text-decoration:none;
+	color:white;
+	display:block;
+	text-transform:uppercase;
+	
+	
+	
+}
+.navi li a:hover{
+	background-position:;
+	color:black;
+	background-color:white;
+	
+	
+}
+.navi li a:active{
+	background-color:white;
+	color:red;
+	
+	
+}
+.bmw{
+width:50%;
+	
+
+	
+}
+.pk{
+	clear:both;
+	width:100%;
+	height:200px;
+
+   background-image:linear-gradient(to right,white, Navy, blue, green, black);	
+	
+}
+	
+.pk ul{
+	
+	display:inline-block;
+	list-style:none;
+	
+	
+	
+}
+.pk li{
+	padding:0px;
+	margin:0px;
+	font-size:20px;
+	list-style:none;
+	float:left;
+  text-decoration:none;
+}
+.pk li a{
+    margin:5px;
+	padding:5px;
+	text-decoration:none;
+	color:white;
+	display:block;
+	text-transform:uppercase;
+	
+	
+	
+}
+.pk li a:hover{
+	background-position:;
+	color:white;
+	background-color:black;
+	
+	
+}
+.movie1{
+	float:left;
+	width:400;
+	height:680;
+	background-color:;
+	
+	
+	
+}
+.movie2{
+	float:left;
+	width:400;
+	height:680;
+	background-color:;
+	
+	
+	
+}
+.movie3{
+	float:left;
+	width:400;
+	height:680;
+	background-color:;
+	
+	
+	
+}
+.movie4{
+	float:left;
+	width:400;
+	height:680;
+	background-color:;
+	
+	
+	
+}
+.movie5{
+	float:left;
+	width:400;
+	height:450;
+	background-color:;
+	
+	
+	
+}
+.fresh{
+	clear:both;
+	background-image: linear-gradient(to left, blue, yellow, violet,red, green, navy);
+	
+	
+}
+.mole{
+	text-align:center;
+	margin:5px;
+	padding:5px;
+	font-family:ALGERIAN;
+	clear:both;
+	height:50px;
+	width:100%;
+	background-color:black;
+	color:white;
+}
+.view{
+	background-color:black;
+	color:white;
+}
