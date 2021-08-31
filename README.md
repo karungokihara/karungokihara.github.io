@@ -15,8 +15,8 @@ CSS/HTML Website, Movies
 
 ![Test Image 1](/image1.png)
 
-![Test Image 2](/image1.png)
-![Test Image 3](/image1.png)
+![Test Image 2](/image2.png)
+![Test Image 3](/image3.png)
 
 
 
