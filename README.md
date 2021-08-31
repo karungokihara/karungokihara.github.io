@@ -12,8 +12,8 @@ CSS/HTML Website, Movies
 4. All done now
 # Screenshorts
 
-![Alt text](/image1.jpg?raw=true "Homepage")
-![Alt text](/image2.jpg?raw=true "Homepage")
+ (image1.jpg?raw=true "Homepage")
+ (image2.jpg?raw=true "Homepage")
 
 
 
