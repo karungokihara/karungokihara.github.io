@@ -1,7 +1,8 @@
 
-# karungokihara.github.io
+# CSS/HTML Website, Movies
 This is a MOVIE website designed in simple HTML and CSS.
 It is a good simple design done to showcase an operation of a normal movie website where someone can download a movie or even watch online. 
+CSS/HTML Website, Movies
 
 # Running the website
 
