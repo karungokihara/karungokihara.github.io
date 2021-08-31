@@ -12,20 +12,9 @@ CSS/HTML Website, Movies
 4. All done now
 # Screenshorts
 
-<img
-src=“image1.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![Test Image 3](/image1.png)
 
 
-<img
-src=“image2.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
 
 
 # design
