@@ -10,6 +10,13 @@ CSS/HTML Website, Movies
 2. Open the downloaded files. 
 3. Click on the index.html file 
 4. All done now
+# Screenshorts
+
+![Alt text](/image1.jpg?raw=true "Homepage")
+![Alt text](/image2.jpg?raw=true "Homepage")
+
+
+
 
 # design
 This was done from scractch without using any template from anyone, i personally designed it. 
