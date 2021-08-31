@@ -12,10 +12,20 @@ CSS/HTML Website, Movies
 4. All done now
 # Screenshorts
 
- (image1.jpg?raw=true "Homepage")
- (image2.jpg?raw=true "Homepage")
+<img
+src=“image1.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
 
 
+<img
+src=“image2.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
 
 
 # design
