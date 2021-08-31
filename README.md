@@ -10,10 +10,13 @@ CSS/HTML Website, Movies
 2. Open the downloaded files. 
 3. Click on the index.html file 
 4. All done now
+
 # Screenshorts
 
-![Test Image 3](/image1.png)
+![Test Image 1](/image1.png)
 
+![Test Image 2](/image1.png)
+![Test Image 3](/image1.png)
 
 
 
